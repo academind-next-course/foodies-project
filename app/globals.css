@@ -22,6 +22,15 @@ body {
   z-index: -1;
 }
 
+p, h1 {
+  color: white;
+  text-align: center;
+}
+
+a {
+  color: white
+}
+
 svg {
   display: block;
   width: 100%;
